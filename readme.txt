@@ -129,4 +129,3 @@ double max_norm(double **H, size_t n){
     } m = fmax(m, ar);
   } return m;
 }
-
